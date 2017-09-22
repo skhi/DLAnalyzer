@@ -1,0 +1,16 @@
+Subject_Enrollment_Number1,Initials,Enrollment_Date,Inclusion_Age,Inclusion_Wound,Inclusion_Consent,Exclusion_Eye,Exclusion_Pregnancy,Exclusion_Consent,Exclusion_Investigator,InclExlSum,DOB,Gender,Race_Ethnicity,Wound_Type,Wound_Type_Other,Date_Wound_Onset,Wound_Location1,Wound_Location2,Wound_Location3,Diabetic,Insulin_Dep,Smoker,PacksPerDay,Smoking_Years,Smoke_Quit,Steroids,Chemotherapy,Radiation,Antibiotics,Datasets,Pictures
+12-Jan,RSB,5/3/16,1,1,1,0,0,0,0,1,10/8/56,0,0,5,Surgical,,3,0,12,1,1,0,,,,0,0,0,0,/disk1/baylor_data_du_txtfiles/dataset_Patient26_Ant.L.Foot.txt,/disk2/nik/Analyzer/test/pics.txt
+12-Jan,RSB,5/3/16,1,1,1,0,0,0,0,1,10/8/56,0,0,5,Surgical,,3,0,12,1,1,0,,,,0,0,0,0,/disk1/baylor_data_du_txtfiles/dataset_Patient29_Ant.R.Leg.txt,/disk2/nik/Analyzer/test/pics.txt
+12-Jan,RSB,5/3/16,1,1,1,0,0,0,0,1,10/8/56,0,0,5,Surgical,,3,0,12,1,1,0,,,,0,0,0,0,/disk1/baylor_data_du_txtfiles/dataset_Patient29_Ant.R.Foot.txt,/disk2/nik/Analyzer/test/pics.txt
+12-Jan,RSB,5/3/16,1,1,1,0,0,0,0,1,10/8/56,0,0,5,Surgical,,3,0,12,1,1,0,,,,0,0,0,0,/disk1/baylor_data_du_txtfiles/dataset_Patient30_Ant.R.Leg.txt,/disk2/nik/Analyzer/test/pics.txt
+12-Jan,RSB,5/3/16,1,1,1,0,0,0,0,1,10/8/56,0,0,5,Surgical,,3,0,12,1,1,0,,,,0,0,0,0,/disk1/baylor_data_du_txtfiles/dataset_Patient30_Ant.R.Foot.txt,/disk2/nik/Analyzer/test/pics.txt
+12-Jan,RSB,5/3/16,1,1,1,0,0,0,0,1,10/8/56,0,0,5,Surgical,,3,0,12,1,1,0,,,,0,0,0,0,/disk1/baylor_data_du_txtfiles/dataset_Patient33_Ant.L.Leg.txt,/disk2/nik/Analyzer/test/pics.txt
+12-Jan,RSB,5/3/16,1,1,1,0,0,0,0,1,10/8/56,0,0,5,Surgical,,3,0,12,1,1,0,,,,0,0,0,0,/disk1/baylor_data_du_txtfiles/dataset_Patient33_Ant.L.Foot.txt,/disk2/nik/Analyzer/test/pics.txt
+12-Jan,RSB,5/3/16,1,1,1,0,0,0,0,1,10/8/56,0,0,5,Surgical,,3,0,12,1,1,0,,,,0,0,0,0,/disk1/baylor_data_du_txtfiles/dataset_Patient34_Ant.L.Leg.txt,/disk2/nik/Analyzer/test/pics.txt
+12-Jan,RSB,5/3/16,1,1,1,0,0,0,0,1,10/8/56,0,0,5,Surgical,,3,0,12,1,1,0,,,,0,0,0,0,/disk1/baylor_data_du_txtfiles/dataset_Patient34_Ant.L.Foot.txt,/disk2/nik/Analyzer/test/pics.txt
+12-Jan,RSB,5/3/16,1,1,1,0,0,0,0,1,10/8/56,0,0,5,Surgical,,3,0,12,1,1,0,,,,0,0,0,0,/disk1/baylor_data_du_txtfiles/dataset_Patient37_Ant.L.Thigh.txt,/disk2/nik/Analyzer/test/pics.txt
+12-Jan,RSB,5/3/16,1,1,1,0,0,0,0,1,10/8/56,0,0,5,Surgical,,3,0,12,1,1,0,,,,0,0,0,0,/disk1/baylor_data_du_txtfiles/dataset_Patient37_Ant.L.Leg.txt,/disk2/nik/Analyzer/test/pics.txt
+12-Jan,RSB,5/3/16,1,1,1,0,0,0,0,1,10/8/56,0,0,5,Surgical,,3,0,12,1,1,0,,,,0,0,0,0,/disk1/baylor_data_du_txtfiles/dataset_Patient25_Ant.R.Leg.txt,/disk2/nik/Analyzer/test/pics.txt
+12-Jan,RSB,5/3/16,1,1,1,0,0,0,0,1,10/8/56,0,0,5,Surgical,,3,0,12,1,1,0,,,,0,0,0,0,/disk1/baylor_data_du_txtfiles/dataset_Patient25_Ant.L.Leg.txt,/disk2/nik/Analyzer/test/pics.txt
+12-Jan,RSB,5/3/16,1,1,1,0,0,0,0,1,10/8/56,0,0,5,Surgical,,3,0,12,1,1,0,,,,0,0,0,0,/disk1/baylor_data_du_txtfiles/dataset_Patient36_Ant.R.Leg.txt,/disk2/nik/Analyzer/test/pics.txt
+12-Jan,RSB,5/3/16,1,1,1,0,0,0,0,1,10/8/56,0,0,5,Surgical,,3,0,12,1,1,0,,,,0,0,0,0,/disk1/baylor_data_du_txtfiles/dataset_Patient36_Ant.R.Foot.txt,/disk2/nik/Analyzer/test/pics.txt

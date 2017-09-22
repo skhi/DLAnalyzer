@@ -1,0 +1,4 @@
+python run_cross_val_v0.py > /dev/null 2>&1 & disown
+
+# count unique lines in the file
+sort train_combined_10_1.txt | uniq -c

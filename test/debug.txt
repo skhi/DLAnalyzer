@@ -1,0 +1,142 @@
+2017-03-05 13:55:08,608 log.framework MainThread  INFO       Global 'gpic_selection_file' file wasn't indicated, pictures from the dataset pics.txt file will be used!
+2017-03-05 13:55:08,614 log.framework MainThread  INFO       The framework runs with this configuration: 
+work_area: output
+job_type: bla
+input_csv: CRF_data.csv
+time_interval: 0
+split_train_test: 0.5
+split_random_seed: 100
+split_method: burnarea
+keep_logs: False
+gpic_selection_file: 
+2017-03-05 13:55:08,614 log.framework MainThread  INFO       Creating HDF5Files area
+2017-03-05 13:55:09,184 log.framework MainThread  INFO       datashape(360, 480, 9, 3), data type uint8
+2017-03-05 13:55:09,185 log.framework MainThread  INFO       label shape(360, 480, 1, 3), label type float64
+2017-03-05 13:55:09,297 log.framework MainThread  INFO       Each image in the hdf5 database has dimensions: (1, 360, 480)
+2017-03-05 13:55:09,298 log.framework MainThread  INFO       Each set of images from one image capture in the hdf5 database has dimensions: (8, 360, 480)
+2017-03-05 13:55:09,298 log.framework MainThread  INFO       In the hdf5 database there are a total of 3 images.
+2017-03-05 13:55:09,317 log.framework MainThread  INFO       The mask has these unique classes: [ 0.  1.]
+2017-03-05 13:55:09,317 log.framework MainThread  INFO       The hdf5 database in located in: HDF5Files
+2017-03-05 13:55:09,317 log.framework MainThread  INFO       self.saveloc HDF5Files
+2017-03-05 13:55:09,317 log.framework MainThread  INFO       h5name data_patient1_Ant.L.U.Trunk_ImageColl_2
+2017-03-05 13:55:09,889 log.framework MainThread  INFO       datashape(360, 480, 9, 3), data type uint8
+2017-03-05 13:55:09,889 log.framework MainThread  INFO       label shape(360, 480, 1, 3), label type float64
+2017-03-05 13:55:10,019 log.framework MainThread  INFO       Each image in the hdf5 database has dimensions: (1, 360, 480)
+2017-03-05 13:55:10,019 log.framework MainThread  INFO       Each set of images from one image capture in the hdf5 database has dimensions: (8, 360, 480)
+2017-03-05 13:55:10,020 log.framework MainThread  INFO       In the hdf5 database there are a total of 3 images.
+2017-03-05 13:55:10,043 log.framework MainThread  INFO       The mask has these unique classes: [ 0.  1.]
+2017-03-05 13:55:10,043 log.framework MainThread  INFO       The hdf5 database in located in: HDF5Files
+2017-03-05 13:55:10,043 log.framework MainThread  INFO       self.saveloc HDF5Files
+2017-03-05 13:55:10,043 log.framework MainThread  INFO       h5name data_patient1_Post.L.Hand_ImageColl_3
+2017-03-05 13:55:10,631 log.framework MainThread  INFO       datashape(360, 480, 9, 3), data type uint8
+2017-03-05 13:55:10,631 log.framework MainThread  INFO       label shape(360, 480, 1, 3), label type float64
+2017-03-05 13:55:10,769 log.framework MainThread  INFO       Each image in the hdf5 database has dimensions: (1, 360, 480)
+2017-03-05 13:55:10,769 log.framework MainThread  INFO       Each set of images from one image capture in the hdf5 database has dimensions: (8, 360, 480)
+2017-03-05 13:55:10,770 log.framework MainThread  INFO       In the hdf5 database there are a total of 3 images.
+2017-03-05 13:55:10,800 log.framework MainThread  INFO       The mask has these unique classes: [ 0.  1.]
+2017-03-05 13:55:10,800 log.framework MainThread  INFO       The hdf5 database in located in: HDF5Files
+2017-03-05 13:55:10,800 log.framework MainThread  INFO       self.saveloc HDF5Files
+2017-03-05 13:55:10,801 log.framework MainThread  INFO       h5name data_patient1_Post.L.Hand_ImageColl_4
+2017-03-05 13:55:11,294 log.framework MainThread  INFO       datashape(360, 480, 9, 3), data type uint8
+2017-03-05 13:55:11,294 log.framework MainThread  INFO       label shape(360, 480, 1, 3), label type float64
+2017-03-05 13:55:11,399 log.framework MainThread  INFO       Each image in the hdf5 database has dimensions: (1, 360, 480)
+2017-03-05 13:55:11,399 log.framework MainThread  INFO       Each set of images from one image capture in the hdf5 database has dimensions: (8, 360, 480)
+2017-03-05 13:55:11,399 log.framework MainThread  INFO       In the hdf5 database there are a total of 3 images.
+2017-03-05 13:55:11,423 log.framework MainThread  INFO       The mask has these unique classes: [ 0.  1.]
+2017-03-05 13:55:11,424 log.framework MainThread  INFO       The hdf5 database in located in: HDF5Files
+2017-03-05 13:55:11,424 log.framework MainThread  INFO       self.saveloc HDF5Files
+2017-03-05 13:55:11,424 log.framework MainThread  INFO       h5name data_patient2_Ant.Head_ImageColl_1
+2017-03-05 13:55:11,933 log.framework MainThread  INFO       datashape(360, 480, 9, 3), data type uint8
+2017-03-05 13:55:11,934 log.framework MainThread  INFO       label shape(360, 480, 1, 3), label type float64
+2017-03-05 13:55:12,059 log.framework MainThread  INFO       Each image in the hdf5 database has dimensions: (1, 360, 480)
+2017-03-05 13:55:12,059 log.framework MainThread  INFO       Each set of images from one image capture in the hdf5 database has dimensions: (8, 360, 480)
+2017-03-05 13:55:12,059 log.framework MainThread  INFO       In the hdf5 database there are a total of 3 images.
+2017-03-05 13:55:12,080 log.framework MainThread  INFO       The mask has these unique classes: [ 0.  1.]
+2017-03-05 13:55:12,080 log.framework MainThread  INFO       The hdf5 database in located in: HDF5Files
+2017-03-05 13:55:12,080 log.framework MainThread  INFO       self.saveloc HDF5Files
+2017-03-05 13:55:12,080 log.framework MainThread  INFO       h5name data_patient2_Ant.Head_ImageColl_2
+2017-03-05 13:55:12,543 log.framework MainThread  INFO       datashape(360, 480, 9, 3), data type uint8
+2017-03-05 13:55:12,543 log.framework MainThread  INFO       label shape(360, 480, 1, 3), label type float64
+2017-03-05 13:55:12,675 log.framework MainThread  INFO       Each image in the hdf5 database has dimensions: (1, 360, 480)
+2017-03-05 13:55:12,675 log.framework MainThread  INFO       Each set of images from one image capture in the hdf5 database has dimensions: (8, 360, 480)
+2017-03-05 13:55:12,676 log.framework MainThread  INFO       In the hdf5 database there are a total of 3 images.
+2017-03-05 13:55:12,703 log.framework MainThread  INFO       The mask has these unique classes: [ 0.  1.]
+2017-03-05 13:55:12,703 log.framework MainThread  INFO       The hdf5 database in located in: HDF5Files
+2017-03-05 13:55:12,704 log.framework MainThread  INFO       self.saveloc HDF5Files
+2017-03-05 13:55:12,704 log.framework MainThread  INFO       h5name data_patient3_Ant.L.L.Trunk_ImageColl_3
+2017-03-05 13:55:13,191 log.framework MainThread  INFO       datashape(360, 480, 9, 3), data type uint8
+2017-03-05 13:55:13,191 log.framework MainThread  INFO       label shape(360, 480, 1, 3), label type float64
+2017-03-05 13:55:13,354 log.framework MainThread  INFO       Each image in the hdf5 database has dimensions: (1, 360, 480)
+2017-03-05 13:55:13,355 log.framework MainThread  INFO       Each set of images from one image capture in the hdf5 database has dimensions: (8, 360, 480)
+2017-03-05 13:55:13,355 log.framework MainThread  INFO       In the hdf5 database there are a total of 3 images.
+2017-03-05 13:55:13,383 log.framework MainThread  INFO       The mask has these unique classes: [ 0.  1.]
+2017-03-05 13:55:13,383 log.framework MainThread  INFO       The hdf5 database in located in: HDF5Files
+2017-03-05 13:55:13,383 log.framework MainThread  INFO       self.saveloc HDF5Files
+2017-03-05 13:55:13,383 log.framework MainThread  INFO       h5name data_patient3_Ant.L.L.Trunk_ImageColl_5
+2017-03-05 13:55:13,849 log.framework MainThread  INFO       datashape(360, 480, 9, 3), data type uint8
+2017-03-05 13:55:13,849 log.framework MainThread  INFO       label shape(360, 480, 1, 3), label type float64
+2017-03-05 13:55:13,984 log.framework MainThread  INFO       Each image in the hdf5 database has dimensions: (1, 360, 480)
+2017-03-05 13:55:13,985 log.framework MainThread  INFO       Each set of images from one image capture in the hdf5 database has dimensions: (8, 360, 480)
+2017-03-05 13:55:13,985 log.framework MainThread  INFO       In the hdf5 database there are a total of 3 images.
+2017-03-05 13:55:14,014 log.framework MainThread  INFO       The mask has these unique classes: [ 0.  1.]
+2017-03-05 13:55:14,015 log.framework MainThread  INFO       The hdf5 database in located in: HDF5Files
+2017-03-05 13:55:14,015 log.framework MainThread  INFO       self.saveloc HDF5Files
+2017-03-05 13:55:14,015 log.framework MainThread  INFO       h5name data_patient3_Ant.L.L.Trunk_ImageColl_4
+2017-03-05 13:55:14,507 log.framework MainThread  INFO       datashape(360, 480, 9, 3), data type uint8
+2017-03-05 13:55:14,508 log.framework MainThread  INFO       label shape(360, 480, 1, 3), label type float64
+2017-03-05 13:55:14,685 log.framework MainThread  INFO       Each image in the hdf5 database has dimensions: (1, 360, 480)
+2017-03-05 13:55:14,686 log.framework MainThread  INFO       Each set of images from one image capture in the hdf5 database has dimensions: (8, 360, 480)
+2017-03-05 13:55:14,686 log.framework MainThread  INFO       In the hdf5 database there are a total of 3 images.
+2017-03-05 13:55:14,716 log.framework MainThread  INFO       The mask has these unique classes: [ 0.  1.]
+2017-03-05 13:55:14,716 log.framework MainThread  INFO       The hdf5 database in located in: HDF5Files
+2017-03-05 13:55:14,716 log.framework MainThread  INFO       self.saveloc HDF5Files
+2017-03-05 13:55:14,716 log.framework MainThread  INFO       h5name data_patient3_Ant.L.L.Trunk_ImageColl_6
+2017-03-05 13:55:15,206 log.framework MainThread  INFO       datashape(360, 480, 9, 3), data type uint8
+2017-03-05 13:55:15,207 log.framework MainThread  INFO       label shape(360, 480, 1, 3), label type float64
+2017-03-05 13:55:15,373 log.framework MainThread  INFO       Each image in the hdf5 database has dimensions: (1, 360, 480)
+2017-03-05 13:55:15,374 log.framework MainThread  INFO       Each set of images from one image capture in the hdf5 database has dimensions: (8, 360, 480)
+2017-03-05 13:55:15,374 log.framework MainThread  INFO       In the hdf5 database there are a total of 3 images.
+2017-03-05 13:55:15,395 log.framework MainThread  INFO       The mask has these unique classes: [ 0.  1.]
+2017-03-05 13:55:15,396 log.framework MainThread  INFO       The hdf5 database in located in: HDF5Files
+2017-03-05 13:55:15,396 log.framework MainThread  INFO       self.saveloc HDF5Files
+2017-03-05 13:55:15,396 log.framework MainThread  INFO       h5name data_patient3_Ant.L.L.Trunk_ImageColl_8
+2017-03-05 13:55:15,929 log.framework MainThread  INFO       datashape(360, 480, 9, 3), data type uint8
+2017-03-05 13:55:15,929 log.framework MainThread  INFO       label shape(360, 480, 1, 3), label type float64
+2017-03-05 13:55:16,032 log.framework MainThread  INFO       Each image in the hdf5 database has dimensions: (1, 360, 480)
+2017-03-05 13:55:16,032 log.framework MainThread  INFO       Each set of images from one image capture in the hdf5 database has dimensions: (8, 360, 480)
+2017-03-05 13:55:16,032 log.framework MainThread  INFO       In the hdf5 database there are a total of 3 images.
+2017-03-05 13:55:16,056 log.framework MainThread  INFO       The mask has these unique classes: [ 0.  1.]
+2017-03-05 13:55:16,057 log.framework MainThread  INFO       The hdf5 database in located in: HDF5Files
+2017-03-05 13:55:16,057 log.framework MainThread  INFO       self.saveloc HDF5Files
+2017-03-05 13:55:16,057 log.framework MainThread  INFO       h5name data_patient1_Ant.L.Shoulder_ImageColl_2
+2017-03-05 13:55:16,524 log.framework MainThread  INFO       datashape(360, 480, 9, 3), data type uint8
+2017-03-05 13:55:16,524 log.framework MainThread  INFO       label shape(360, 480, 1, 3), label type float64
+2017-03-05 13:55:16,665 log.framework MainThread  INFO       Each image in the hdf5 database has dimensions: (1, 360, 480)
+2017-03-05 13:55:16,665 log.framework MainThread  INFO       Each set of images from one image capture in the hdf5 database has dimensions: (8, 360, 480)
+2017-03-05 13:55:16,665 log.framework MainThread  INFO       In the hdf5 database there are a total of 3 images.
+2017-03-05 13:55:16,685 log.framework MainThread  INFO       The mask has these unique classes: [ 0.  1.]
+2017-03-05 13:55:16,686 log.framework MainThread  INFO       The hdf5 database in located in: HDF5Files
+2017-03-05 13:55:16,686 log.framework MainThread  INFO       self.saveloc HDF5Files
+2017-03-05 13:55:16,686 log.framework MainThread  INFO       h5name data_patient1_Ant.L.Shoulder_ImageColl_1
+2017-03-05 13:55:16,705 log.framework MainThread  INFO       Caffe runs with this configuration
+net: "/Users/nikskhirtladze/Documents/SpectralMD/Analyzer/test_framework/model"
+test_initialization: false
+test_iter: 1
+test_interval: 100000
+base_lr: 0.001
+lr_policy: "step"
+gamma: 10
+stepsize: 1000000
+display: 50
+momentum: 0.9
+max_iter: 4000
+weight_decay: 0.0005
+snapshot: 5000
+snapshot_prefix: "/home/Hinton"
+solver_mode: GPU
+
+2017-03-05 13:55:16,705 log.framework MainThread  INFO       caffe training step
+2017-03-05 13:55:16,705 log.framework MainThread  INFO       Calling the following command for training:
+/Users/nikskhirtladze/caffe/build/tools/caffe train -gpu 0 -solver /Users/nikskhirtladze/Documents/SpectralMD/DLAnalyzer/test/output/caffe2/model/segnet_solver.prototxt
+2017-03-05 13:55:17,057 log.framework MainThread  INFO       The following output error:
+

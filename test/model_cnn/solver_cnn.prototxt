@@ -1,0 +1,14 @@
+net: "NET"
+test_iter: TEST_ITER
+test_interval: TEST_INTERVAL
+display: DISPLAY
+base_lr: BASE_LR
+momentum: MOMENTUM
+weight_decay: WEIGHT_DECAY
+lr_policy: "LR_POLICY"
+gamma: GAMMA
+max_iter: MAX_ITER
+stepsize: STEPSIZE
+snapshot: SNAPSHOT
+snapshot_prefix: "SNAPSHOT_PREFIX"
+solver_mode: SOLVER_MODE

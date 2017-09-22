@@ -1,0 +1,1 @@
+2017-09-18 16:26:48,767 log.framework MainThread  INFO       Picture selection is done from the global 'gpic_selection_file' file!
